@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Stock Picking View internal Locations Only',
-    'version': '16.0.1',
+    'version': '7.0.1',
     'category': 'Warehouse',
     "author": 'Zero Systems',
     "company": 'Zero for Information Systems',
@@ -28,5 +28,4 @@
     'application': False,
     'price': 00.0,
     'currency': 'EUR',
-    'pre_init_check_vers': 'pre_init_check_vers',
 }
