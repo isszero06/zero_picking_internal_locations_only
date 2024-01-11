@@ -28,5 +28,4 @@
     'application': False,
     'price': 00.0,
     'currency': 'EUR',
-    'pre_init_check_vers': 'pre_init_check_vers',
 }
